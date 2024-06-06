@@ -13,7 +13,7 @@ Como utilizar o sistema:
 
 Faça o download de todas as pastas e arquivos do repositório.
 Ou use o bash Git para clonar o repositório:
-git clone <url-do-repositorio>
+git clone url-do-repositorio
 
 Iniciar o Servidor:
 Coloque o projeto no diretório do servidor (ex: htdocs para XAMPP).
