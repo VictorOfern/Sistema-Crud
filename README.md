@@ -1,4 +1,3 @@
-
 # Sistema CRUD com PHP
 Este projeto é um sistema de login desenvolvido com PHP Orientado a Objetos, utilizando PDO para interações com o banco de dados MySQL, além de HTML, CSS e JavaScript para a interface de usuário. Ele permite o cadastro de usuários e professores (administradores), validações e login para acesso a uma área restrita.
 
