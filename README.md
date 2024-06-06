@@ -1,14 +1,15 @@
-Sistema CRUD com PHP
+
+# Sistema CRUD com PHP
 Este projeto é um sistema de login desenvolvido com PHP Orientado a Objetos, utilizando PDO para interações com o banco de dados MySQL, além de HTML, CSS e JavaScript para a interface de usuário. Ele permite o cadastro de usuários e professores (administradores), validações e login para acesso a uma área restrita.
 
-Funcionalidades:
+## O que o Sistemas faz?
 Cadastro de usuários e professores com validação de email único.
 Login de usuários cadastrados.
 Acesso a uma área restrita.
 Alterar dados cadastrados.
 Excluir conta.
 
-Como utilizar o sistema:
+## Como usar o Sistema??
 É necessário ter o software XAMPP instalado e os serviços Apache e MySQL ativados.
 
 Faça o download de todas as pastas e arquivos do repositório.
@@ -27,5 +28,5 @@ Cadastrar e Logar Usuários:
 Acesse a página de cadastro e registre um novo usuário.
 Use as credenciais cadastradas para fazer login e acessar a área restrita.
 
-Considerações Finais:
+## Considerações Finais:
 Este projeto é uma prática das tecnologias PHP, POO, PDO, MySQL, HTML, CSS e JavaScript. Ele pode ser expandido e adaptado conforme as necessidades.
