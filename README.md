@@ -2,11 +2,11 @@
 Este projeto é um sistema de login desenvolvido com PHP Orientado a Objetos, utilizando PDO para interações com o banco de dados MySQL, além de HTML, CSS e JavaScript para a interface de usuário. Ele permite o cadastro de usuários e professores (administradores), validações e login para acesso a uma área restrita.
 
 ## O que o Sistemas faz?
-Cadastro de usuários e professores com validação de email único.
+Cadastro de usuários e alunos com validação de email único.
 Login de usuários cadastrados.
 Acesso a uma área restrita.
 Alterar dados cadastrados.
-Excluir conta.
+Excluir e edutar conta.
 
 ## Como usar o Sistema??
 É necessário ter o software XAMPP instalado e os serviços Apache e MySQL ativados.
